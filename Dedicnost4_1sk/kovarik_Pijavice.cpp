@@ -1,4 +1,4 @@
-#include "kovařík_Pijavice.h"
+#include "kovarik_Pijavice.h"
 #include <iostream>
 
 pijavice::pijavice(const std::string& name, int age, const std::string& breed)

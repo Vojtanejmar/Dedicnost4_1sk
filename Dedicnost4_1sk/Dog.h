@@ -20,3 +20,6 @@ public:
 private:
     std::string mBreed;
 };
+
+
+// ahoj

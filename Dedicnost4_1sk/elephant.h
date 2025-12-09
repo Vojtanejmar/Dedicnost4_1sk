@@ -16,3 +16,4 @@ public:
 	std::string mCountry;
 };
 
+// ahoj
